@@ -703,7 +703,7 @@ email:
   smtp_pass: "examplepassword"
   force_tls: true
   require_transport_security: true
-  enable_tls: false
+  enable_tls: true
   notif_from: "Your Friendly %(app)s homeserver <noreply@example.com>"
   app_name: my_branded_matrix_server
   enable_notifs: true
